@@ -1,5 +1,8 @@
 # TECHPyME - NEXUS SUPPORT
 
+## LOGO
+    ![Logo-Empresa](assets/Logo.jpg)
+
  ## ¿Qué es NEXUS?
 Sistema Integral de gestión empresarial diseñado bajo principios Clean Architecture y SOLID, enfocada en crear soluciones digitales solidas y escalables.
 
