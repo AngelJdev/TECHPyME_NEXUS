@@ -9,7 +9,7 @@ No construimos solo paginas "web" construimos sitemas con arquitectura profesion
 
 ### ¿Que nos define como empresa?
 
-### MISIÓN
+#### MISIÓN
 
 Desarrollar soluciones tecnologicas modernas, estructuradas con buenas prácticas de ingenieria, que impulsen la transformacion digital de nuestros clientes.
 
@@ -31,7 +31,7 @@ Convertirmos en una agencia capaz de crear productos SaaS propios, escalables y 
 
 ### ENFOQUE ESTRATEGICO
 
-Antes de generar y escribir codigo debemos definir:
+> Antes de generar y escribir codigo debemos definir:
 
 1. Identidad Empresarial.
 2. Modelo de Negocio
@@ -40,7 +40,7 @@ Antes de generar y escribir codigo debemos definir:
 5. Estándares de Desarrollo.
 6. Flujo de Trabajo en Git.
 
-El código es consecuencia de una buena estrategia.
+> El código es consecuencia de una buena estrategia.
 
 ---
 
@@ -70,3 +70,42 @@ TECHPyME NEXUS se estructurara bajo los siguientes principios:
 - Escalable.
 
 --- 
+
+### ETAPA ACTUAL
+
+Actualmente estamos en fase de:
+
+> Definición estratégica y estructural
+
+Antes de comenzar el desarrollo técnico (backend y frontend), se establecerán:
+
+- Modelo empresarial
+- Servicios que ofrecerá TECHPyME
+- Estructura base reutilizable
+- Lineamientos de arquitectura
+- Flujo profesional de desarrollo
+
+---
+
+### PRÓXIMOS PASOS
+
+1. Definir estructura base del backend
+2. Definir estructura base del frontend
+3. Implementar Clean Architecture
+4. Configurar entorno profesional
+5. Crear primer módulo funcional
+
+---
+
+### 👨‍💻 FUNDADOR
+
+ING EN GDS Angel de Jesús  
+Software Developer  
+En construcción de una agencia tecnológica estructurada.
+
+---
+
+### NEXT
+
+🟡 Planeación estratégica  
+🔜 Próxima fase: Diseño arquitectónico base
